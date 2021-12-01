@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **DevOps, AI/ML**
 
-- 👨‍💻 View my online protfolio at [https://prajwalj27.github.io/personal-portfolio-1/](https://prajwalj27.github.io/personal-portfolio-1/)
-
 - 📫 How to reach me **prajwalmjaiswal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prajwal-jaiswal/](https://www.linkedin.com/in/prajwal-jaiswal/)
