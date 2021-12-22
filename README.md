@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **ReactJs, DevOps**
 
+- I'm currently working on a personal project of creating my Personal Portfolio
+
 - 📫 How to reach me **prajwalmjaiswal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prajwal-jaiswal/](https://www.linkedin.com/in/prajwal-jaiswal/)
