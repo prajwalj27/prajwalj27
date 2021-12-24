@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **prajwalmjaiswal@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prajwal-jaiswal/](https://www.linkedin.com/in/prajwal-jaiswal/)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/prajwal_2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal_2703" height="30" width="40" /></a>
