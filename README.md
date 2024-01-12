@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Jaiswal</h1>
-<h3 align="center">I'm currently pursuing my Computer Science Engineering from India. I'm a passionate full stack developer and love working on different projects.</h3>
+<h3 align="center">I'm pursuing my Masters in Computer Science from Rochester Institute of Technology, USA. I'm a passionate full-stack developer and love working on different projects.</h3>
 
 - 🌱 I’m currently learning **ReactJs, DevOps**
 
