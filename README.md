@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prajwal Jaiswal</h1>
-<h3 align="center">🚀 Software Engineer | AI & Full-Stack Developer | MSCS @ RIT</h3>
+<h3 align="center">🚀 Software Engineer | AI & ML | Full-Stack Developer | MSCS @ RIT</h3>
 
 🌟 Passionate about building innovative tech solutions that blend **AI, Web, and Mobile** applications.  
 💡 Currently working on **AI-driven applications, Federated Learning, and Computer Vision** projects.  
